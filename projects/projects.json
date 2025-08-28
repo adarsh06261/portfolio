@@ -4,17 +4,17 @@
     "desc": "A comprehensive algorithm visualization and learning platform built with modern web technologies, featuring interactive coding challenges and real-time algorithm demonstrations.",
     "image": "abgosync",
     "links": {
-      "view": "https://algosync-demo.netlify.app",
+      "view": "https://algo-sync-theta.vercel.app",
       "code": "https://github.com/adarsh06261/AlgoSync"
     }
   },
   {
-    "name": "Laundry Services",
-    "desc": "An on-demand laundry service app concept, featuring a user-friendly interface for booking and managing laundry services.",
-    "image": "restaurant",
+    "name": "Cyberverse",
+    "desc": "A frontend project to showcase my skills",
+    "image": "cyber",
     "links": {
-      "view": "https://dribbble.com/shots/15969440-Laundry-Service-App-UI",
-      "code": "https://github.com/adarsh06261/LaundryServicesApp"
+      "view": "https://cyberverse-vert.vercel.app/",
+      "code": "https://github.com/adarsh06261/cyberverse.git"
     }
   },
   {
